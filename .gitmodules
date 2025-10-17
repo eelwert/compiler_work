@@ -1,0 +1,3 @@
+[submodule "NKU-Compiler2025"]
+	path = NKU-Compiler2025
+	url = https://github.com/eelwert/NKU-Compiler2025.git
